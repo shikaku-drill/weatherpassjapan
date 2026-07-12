@@ -1,0 +1,48 @@
+WEATHERPASS JAPAN — Proprietary License
+Copyright (c) 2026 WEATHERPASS JAPAN. All rights reserved.
+
+このソフトウェア（HTML/CSS/JavaScript を含む本リポジトリのすべての
+コード、デザイン、文言、および関連ファイル。以下「本ソフトウェア」）は、
+著作権者に帰属する独占的な著作物です。
+
+1. 許諾されないこと
+   本ソフトウェアの全部または一部について、著作権者の書面による事前の
+   許諾なく、以下を行うことを禁止します。
+     - 複製、改変、翻案、二次的著作物の作成
+     - 再配布、公衆送信、販売、貸与、サブライセンス
+     - 逆コンパイル等によるソースの再構成を目的とした利用
+     - 本ソフトウェアを基にした competing/類似サービスの構築
+
+2. 閲覧について
+   本ソフトウェアは Web ブラウザで表示される性質上、配信されたコードを
+   閲覧できます。閲覧が可能であることは、上記の権利を許諾するものでは
+   ありません。
+
+3. 商標
+   "WEATHERPASS JAPAN" の名称・ロゴ、および関連する識別表示は著作権者の
+   商標です。無断使用を禁止します。
+
+4. 透かし
+   本ソフトウェアには一意のビルド識別子（透かし）が埋め込まれています。
+   無断複製が発見された場合、著作権者はこの識別子を証拠として権利を
+   行使することがあります。
+
+5. 免責
+   本ソフトウェアは「現状有姿」で提供され、明示黙示を問わずいかなる保証も
+   ありません。著作権者は本ソフトウェアの使用または使用不能から生じる
+   いかなる損害についても責任を負いません。
+
+6. 準拠法
+   本ライセンスは日本法に準拠し、本ソフトウェアに関する紛争については
+   東京地方裁判所を第一審の専属的合意管轄裁判所とします。
+
+---
+
+WEATHERPASS JAPAN — Proprietary License (English summary)
+This repository is proprietary. All rights reserved. No copying, modifying,
+redistributing, sublicensing, or building competing/derivative services is
+permitted without the copyright holder's prior written consent. Viewing the
+delivered code in a browser does not grant any rights. A unique build
+watermark is embedded and may be used as evidence against unauthorized copies.
+Governed by the laws of Japan; exclusive jurisdiction: Tokyo District Court.
+In case of any discrepancy, the Japanese text above prevails.
