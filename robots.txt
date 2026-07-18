@@ -1,0 +1,21 @@
+# WEATHERPASS JAPAN
+# Every crawler is welcome on every language URL; ?lang= is the language switch, not a
+# duplicate, and each variant declares its own canonical + hreflang set.
+User-agent: *
+Allow: /
+
+# Naver (Korean) and Baidu (Simplified Chinese) send a large share of our readers and are
+# weak at executing JavaScript, so they are named explicitly and pointed at the sitemap.
+User-agent: Yeti
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Daum
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+Sitemap: https://weatherpassjapan.com/sitemap.xml
