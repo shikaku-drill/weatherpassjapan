@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- WEATHERPASS JAPAN — one real URL per language for the app and for the legal page, each
-     declaring the full alternate set. Engines that read sitemaps but skip JavaScript
-     (Naver, Baidu, Yandex) learn the whole language map from this file alone. -->
+<!-- WEATHERPASS JAPAN — the app in five languages, the terms in five, and a landing page
+     per prefecture per language. One URL cannot rank for sixteen cities; these can.
+     Every entry declares its full alternate set so engines that skip JavaScript still
+     learn the language map. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
@@ -15,6 +16,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -29,6 +31,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -43,6 +46,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -57,6 +61,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -71,6 +76,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -85,6 +91,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/legal-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
@@ -99,6 +106,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/legal-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -113,6 +121,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/legal-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -127,6 +136,7 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/legal-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -141,7 +151,918 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://weatherpassjapan.com/legal-zh-Hant.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/legal-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hokkaido.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hokkaido-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hokkaido-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hokkaido-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hokkaido-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hokkaido-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hokkaido-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hokkaido-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hokkaido-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hokkaido-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hokkaido-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hokkaido-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hokkaido-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hokkaido.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hokkaido-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hokkaido-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hokkaido-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hokkaido-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/tokyo.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/tokyo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/tokyo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/tokyo-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/tokyo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/tokyo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/tokyo-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/tokyo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/tokyo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/tokyo-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/tokyo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/tokyo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/tokyo-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/tokyo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/tokyo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/tokyo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/tokyo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/tokyo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/chiba.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/chiba-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/chiba-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/chiba-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/chiba-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/chiba-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/chiba-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/chiba-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/chiba-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/chiba-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/chiba-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/chiba-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/chiba-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/chiba.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/chiba-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/chiba-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/chiba-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/chiba-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kanagawa.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kanagawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kanagawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kanagawa-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kanagawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kanagawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kanagawa-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kanagawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kanagawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kanagawa-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kanagawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kanagawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kanagawa-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kanagawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kanagawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kanagawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kanagawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kanagawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/aichi.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/aichi-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/aichi-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/aichi-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/aichi-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/aichi-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/aichi-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/aichi-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/aichi-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/aichi-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/aichi-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/aichi-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/aichi-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/aichi.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/aichi-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/aichi-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/aichi-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/aichi-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/ishikawa.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/ishikawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/ishikawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/ishikawa-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/ishikawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/ishikawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/ishikawa-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/ishikawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/ishikawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/ishikawa-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/ishikawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/ishikawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/ishikawa-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/ishikawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/ishikawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/ishikawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/ishikawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/ishikawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kyoto.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kyoto-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kyoto-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kyoto-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kyoto-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kyoto-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kyoto-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kyoto-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kyoto-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kyoto-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kyoto-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kyoto-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/kyoto-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/kyoto.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/kyoto-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/kyoto-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/kyoto-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/kyoto-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/osaka.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/osaka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/osaka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/osaka-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/osaka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/osaka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/osaka-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/osaka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/osaka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/osaka-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/osaka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/osaka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/osaka-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/osaka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/osaka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/osaka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/osaka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/osaka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hyogo.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hyogo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hyogo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hyogo-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hyogo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hyogo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hyogo-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hyogo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hyogo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hyogo-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hyogo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hyogo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hyogo-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hyogo.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hyogo-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hyogo-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hyogo-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hyogo-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/nara.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/nara-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/nara-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/nara-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/nara-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/nara-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/nara-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/nara-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/nara-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/nara-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/nara-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/nara-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/nara-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/nara.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/nara-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/nara-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/nara-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/nara-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hiroshima.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hiroshima-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hiroshima-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hiroshima-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hiroshima-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hiroshima-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hiroshima-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hiroshima-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hiroshima-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hiroshima-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hiroshima-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hiroshima-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/hiroshima-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/hiroshima.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/hiroshima-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/hiroshima-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/hiroshima-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/hiroshima-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/fukuoka.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/fukuoka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/fukuoka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/fukuoka-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/fukuoka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/fukuoka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/fukuoka-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/fukuoka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/fukuoka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/fukuoka-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/fukuoka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/fukuoka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/fukuoka-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/fukuoka.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/fukuoka-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/fukuoka-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/fukuoka-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/fukuoka-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/okinawa.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/okinawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/okinawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/okinawa-ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/okinawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/okinawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/okinawa-zh-Hant.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/okinawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/okinawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/okinawa-zh-Hans.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/okinawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/okinawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weatherpassjapan.com/okinawa-ko.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weatherpassjapan.com/okinawa.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weatherpassjapan.com/okinawa-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://weatherpassjapan.com/okinawa-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://weatherpassjapan.com/okinawa-zh-Hant.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://weatherpassjapan.com/okinawa-zh-Hans.html"/>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>

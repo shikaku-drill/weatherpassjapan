@@ -1,0 +1,33 @@
+{
+ "name": "WEATHERPASS JAPAN",
+ "short_name": "天气通行证",
+ "description": "看天气决定今天在日本怎么玩。下雨就室内，票价比较三家。",
+ "lang": "zh-Hans",
+ "dir": "ltr",
+ "start_url": "/zh-Hans.html",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0B1526",
+ "theme_color": "#0B1526",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

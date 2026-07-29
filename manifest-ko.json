@@ -1,0 +1,33 @@
+{
+ "name": "WEATHERPASS JAPAN",
+ "short_name": "웨더패스",
+ "description": "날씨로 정하는 일본에서의 하루. 비가 오면 실내, 요금은 세 곳 비교.",
+ "lang": "ko",
+ "dir": "ltr",
+ "start_url": "/ko.html",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0B1526",
+ "theme_color": "#0B1526",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

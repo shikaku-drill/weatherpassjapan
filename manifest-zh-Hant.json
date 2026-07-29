@@ -1,0 +1,33 @@
+{
+ "name": "WEATHERPASS JAPAN",
+ "short_name": "天氣通行證",
+ "description": "看天氣決定今天在日本怎麼玩。下雨就室內，票價比較三家。",
+ "lang": "zh-Hant",
+ "dir": "ltr",
+ "start_url": "/zh-Hant.html",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0B1526",
+ "theme_color": "#0B1526",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
